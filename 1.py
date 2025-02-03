@@ -1,5 +1,4 @@
 def count_characters(input_string):
-    """Counts vowels, consonants, spaces, and other characters in a string."""
     vowels = "aeiouAEIOU"
     vowel_count = 0
     consonant_count = 0
