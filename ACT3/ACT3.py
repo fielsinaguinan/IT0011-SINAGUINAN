@@ -14,8 +14,4 @@ def string_manipulation():
     print("Sliced Name:", sliced_name)
     print("Greeting Message:", greeting_message)
 
-<<<<<<< HEAD
 string_manipulation()
-=======
-string_manipulation()
->>>>>>> 7a39522786d86d7e41e049a12132d4b3b34e672f
